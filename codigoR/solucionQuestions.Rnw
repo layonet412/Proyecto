@@ -55,8 +55,6 @@ rownames(datosMedias) = c("Media TP","Media TPNH","Media TPH")
 xtable(datosMedias,"Valores de las medias en TP, TPHN y TPH")
 @
 
-
-
 %\item Ciudad con más población en 1990
 <<dosa,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
 	ciudad2a <- subset(datos1990,datos1990$TP==max(datos1990$TP))
@@ -139,7 +137,6 @@ xtable(datosMedias,"Valores de las medias en TP, TPHN y TPH")
 %	mediasFull<-data.frame(TP=grupoMediaTP, TPNH=grupoMediaTPNH, TPH=grupoMediaTPH)	 	
 %	xtable(mediasFull,"Valores de las medias en TP, TPHN y TPH")
 
-
 El análisis continua con los siguientes resultados.
 %Ciudad con mas población hispana en el año 1990
 <<sieta,results='asis',echo=FALSE, warning=FALSE, message=FALSE>>=
@@ -205,4 +202,3 @@ A continuación se visualiza la matriz de correlación que existe entre la varia
 	xtable(cor(correla),"Matrix de correlación")
 	plot(correla)
 @
-

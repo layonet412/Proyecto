@@ -11,14 +11,18 @@ en cuenta las siguientes condiciones:
 3) El Software de RStudio debe ser Versiónn 0.99.879 – © 2009-2016 RStudio, Inc.
 
 4) En el sofwarte de RStudio debe haber instalado previamente los siguientes paquetes de librerias:
-	install.packages("xtable")
-	install.packages("ggplot2")
-	install.packages("knitr")
-	install.packages("stargazer")
-	install.packages("MASS")
+install.packages("xtable")
+install.packages("ggplot2")
+install.packages("knitr")
+install.packages("stargazer")
+install.packages("MASS")
 
-5) Realizar los pasos como se encuentra en el documento Integración de RStudio con TexStudio.pdf
+5) Realizar los pasos como se encuentra en el documento : Integración de RStudio con TexStudio.pdf
 
-6)
+6)Modificar la siguiente línea de código de los archivos exploratorio.Rnw y solucionQuestions.Rnw que se encuentran dentro de la carpeta codigoR
+	datos <- read.csv2("E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/DataSet/HispanosSinNA.csv")   
+	por la ruta absoluta en cual usted a colocado los archivos
+
+7) Abrir text Studio y compilar el documento.
 
 

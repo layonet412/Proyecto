@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.21)  12 APR 2016 01:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.2.21)  13 MAY 2016 22:06
 entering extended mode
 **E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/main.tex
 (E:/Dctos_Leonel/Docs_Maestria/GitHub/Proyecto/main.tex
@@ -780,21 +780,21 @@ and I'll forget about whatever was undefined.
  <figure/correlacion-1.pdf, id=51, 505.89pt x 505.89pt>
 File: figure/correlacion-1.pdf Graphic file (type pdf)
  <use figure/correlacion-1.pdf>
-Package pdftex.def Info: figure/correlacion-1.pdf used on input line 730.
+Package pdftex.def Info: figure/correlacion-1.pdf used on input line 727.
 (pdftex.def)             Requested size: 253.04987pt x 253.05243pt.
 
-Overfull \hbox (14.45pt too wide) in paragraph at lines 730--731
+Overfull \hbox (14.45pt too wide) in paragraph at lines 727--728
 [][] 
  []
 
  [5 <./figure/pobHisp2011-1.pdf> <./figure/correlacion-1.pdf>]
-Underfull \hbox (badness 7888) in paragraph at lines 745--746
+Underfull \hbox (badness 7888) in paragraph at lines 741--742
 []\OT1/ptm/m/n/8 pewhispanic.org, Pew Re-search Cen-ter's His-pa-nic Trends Pro
 -
  []
 
 
-Underfull \hbox (badness 1430) in paragraph at lines 745--746
+Underfull \hbox (badness 1430) in paragraph at lines 741--742
 \OT1/ptm/m/n/8 ject, U.S. His-pa-nic Po-pu-la-tion by County, 1980-2011. Dis-po
 -ni-ble
  []
